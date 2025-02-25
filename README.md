@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
-👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things
-🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering
-💞️ I’m looking to collaborate on building free resources
-📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com / LinkedIn
+👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things \
+🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering \
+💞️ I’m looking to collaborate on building free resources \
+📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com / https://www.linkedin.com/in/sundara-subramanian
 
 ## 🛠 Tech Stack
 
@@ -13,6 +13,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AnaConda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Node](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Data Analysis & Manipulation:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
