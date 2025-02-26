@@ -67,8 +67,8 @@
 ### Others:
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=flat&logo=azurepipelines&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=flat&logo=swagger&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### IDEs:
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
