@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sundara Subramanian (@onetrueheisenberg)
 👀 I’m an AWS Certified Developer interested in MEAN stack development and a variety of other things \
-🌱 I’m currently doing a Master's degree in Software Engineering with minors in AI & Information and Knowledge Engineering \
+🌱 I’m currently doing a Master's degree in Software Engineering with concentration in AI & Information and Knowledge Engineering \
 💞️ I’m looking to collaborate on building free resources \
 📫 How to reach me sundara@umich.edu / sundara.subramanian1211@gmail.com / https://www.linkedin.com/in/sundara-subramanian
 
@@ -76,17 +76,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook)
-
----
-
-## 📊 GitHub Stats:
-![Sundar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onetrueheisenberg&show_icons=true&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=onetrueheisenberg&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+![Sundar's GitHub Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=onetrueheisenberg&theme=dark&show_icons=true&hide_border=true&hide=jupyter%20notebook&layout=compact)
 
 ---
 
